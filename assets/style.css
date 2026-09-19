@@ -43,7 +43,7 @@ section + section { margin-top: 44px; }
 .site-footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px 24px; border-top: 1px solid var(--line); padding-block: 24px 36px; font-size: 0.85rem; color: var(--muted); }
 .site-footer a { padding-block: 8px; }
 .policy { max-width: 760px; }
-.policy h1 { font-size: clamp(1.8rem, 5vw, 2.65rem); line-height: 1.25; letter-spacing: -0.025em; }
+.policy h1 { font-size: clamp(1.55rem, 5vw, 2.65rem); line-height: 1.25; letter-spacing: -0.025em; overflow-wrap: anywhere; hyphens: auto; }
 .policy h2 { font-size: 1.4rem; margin-top: 2rem; }
 .skip-link { position: absolute; top: 8px; left: 16px; transform: translateY(-200%); padding: 10px 16px; background: var(--paper); z-index: 1; }
 .skip-link:focus { transform: translateY(0); }
