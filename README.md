@@ -36,11 +36,9 @@ builds, credentials, private notes, internal reports or unreviewed asset folders
 
 ## Content
 
-The Erase Garden policy retains the prepared Russian policy text dated
-19 September 2026 for version 0.11.0; navigation, styling and email links are
-presentation additions. Game information is based on the prepared store text
-and credits. A store release, age rating or device/child test result is not
-claimed by this website.
+The public pages are in English. The policy is dated September 21, 2026
+and describes Erase Garden 0.11.2, including parent-only external links.
+No store release, age rating or new device/child test result is claimed.
 
 ## GitHub documentation
 
