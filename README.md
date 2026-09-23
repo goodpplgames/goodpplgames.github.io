@@ -36,8 +36,8 @@ builds, credentials, private notes, internal reports or unreviewed asset folders
 
 ## Content
 
-The public pages are in English. The policy is dated September 21, 2026
-and describes Erase Garden 0.11.2, including parent-only external links.
+The public pages are in English. The policy is dated September 23, 2026
+and describes Erase Garden 0.11.2–0.11.3, including parent-only external links.
 No store release, age rating or new device/child test result is claimed.
 
 ## GitHub documentation
